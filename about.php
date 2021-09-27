@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat harum tempora voluptatem. Accusantium ad alias at corporis deserunt eaque excepturi in minima molestias, neque obcaecati, odio quae quasi sint totam.</p>
+    <a href="www.google.com">google</a>
 </body>
 </html>

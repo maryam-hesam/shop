@@ -8,9 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-<h5>this is test</h5>
-<h5>this is test</h5>
-<h5>this is test</h5>
-<h5>this is test</h5>
+<section>
+    <h2>test</h2>
+    <a href="www.google.com">google</a>
+</section>
 </body>
 </html>
